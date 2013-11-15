@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array name="row0">
+		<item>1</item>
+		<item>1</item>
+		<item>-40.4585</item>
+		<item>-12.492</item>
+		<item>20.05</item>
+		<item>20.536</item>
+		<item>-1</item>
+	</integer-array>
+	<integer-array name="row1">
+		<item>2</item>
+		<item>3</item>
+		<item>-56.84</item>
+		<item>-4.21</item>
+		<item>1</item>
+		<item>0.97</item>
+		<item>1</item>
+	</integer-array>
+	<integer-array name="row2">
+		<item>3</item>
+		<item>3</item>
+		<item>-55.54</item>
+		<item>-2.76</item>
+		<item>1</item>
+		<item>0.97</item>
+		<item>2</item>
+	</integer-array>
+	<integer-array name="row3">
+		<item>4</item>
+		<item>3</item>
+		<item>-52.74</item>
+		<item>-1.05</item>
+		<item>1</item>
+		<item>0.97</item>
+		<item>3</item>
+	</integer-array>
+</resources>
